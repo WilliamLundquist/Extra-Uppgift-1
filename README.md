@@ -16,4 +16,8 @@ git branch - För att se vilken branch man är inne på (Förstår inte varför 
 
 #### Egen research Github:
 
-git checkout -b <Branch-name> - Används för att skapa och direkt hoppa in i föregreningen
+Kikade på denna sidan då jag tyckte den var lätt navigerad och jag gillar att läsa saker steg för steg. 
+https://graphite.dev/guides/git-checkout-main
+
+
+git checkout main // git pull - För att uppdatera sin lokala main/master förgrening, tex om main/master förgreningen som ligger live har ny data som man vill hämta, uppdatera och integrera med dina lokala filer.
