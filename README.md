@@ -9,6 +9,6 @@ Git kommandon kännetecknas av att man sätter git framför och hänvisar till a
 git status - Visar status "untracked, modified, staged"
 git add - lägger till en skapad fil 
 git commit -
-git checkout -
+git checkout <Branch-name> - Används för att navigera mellan olika bransches (förgreningar)
 git branch -
 
