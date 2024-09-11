@@ -21,3 +21,9 @@ https://graphite.dev/guides/git-checkout-main
 
 
 git checkout main // git pull - För att uppdatera sin lokala main/master förgrening, tex om main/master förgreningen som ligger live har ny data som man vill hämta, uppdatera och integrera med dina lokala filer.
+
+
+#### Markdowns:
+
+Markdowns är ett bra sätt att ge sina beskrivningar struktur och tydlighet genom att kunna ändra storleken på viss text för att signalera till läsaren att nu kommer ett nytt stycke eller dylikt. 
+jag tycker att https://www.markdownguide.org/basic-syntax/ är en bra hemsida för att lära sig "göra rätt" för att det ska bli tydligt. 
