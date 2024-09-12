@@ -22,6 +22,7 @@ Kikade på denna sidan då jag tyckte den var lätt navigerad och jag gillar att
 | --- | --- | 
 | *git pull* | För att hämta nya uppdateringar för filerna från remote till lokal |
 
+![](Git.jpg)
 
 ### Markdowns:
 
