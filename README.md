@@ -31,6 +31,25 @@ Kikade på denna sidan då jag tyckte den var lätt navigerad och jag gillar att
 
 ![](Markdown.jpg)
 
+# Uppgift Terminal
+
+### Föreläsning Terminal:
+
+|  Kommando |  Beskrivning |
+| --- | ---|
+| **pwd** | sökvägen till nuvarande katalog |
+| **ls -la** | För att se innehållet i mappen, även dola |
+| **mkdir** | Skapa ny mapp |
+| **cd ..** | Backa ett steg i mapp | 
+
+### Egen research Terminal: 
+
+##### Min egna research för terminalkommandon så använde jag dell.com, länken ligger har jag lagt nedan men även bilden har jag tagit därifrån. <br> 
+https://www.dell.com/support/kbdoc/sv-se/000123980/en-guide-till-ubuntu-linux-terminal-commands-for-your-dell-pc#Control_Commands
+
+
+![Bild med kommandoexempel](Terminalkommandon.png)
+
 
 ##### Min egna research för terminalkommandon så använde jag dell.com, länken ligger har jag lagt nedan men även bilden har jag tagit därifrån. <br> 
 https://www.dell.com/support/kbdoc/sv-se/000123980/en-guide-till-ubuntu-linux-terminal-commands-for-your-dell-pc#Control_Commands
