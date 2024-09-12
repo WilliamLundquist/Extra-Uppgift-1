@@ -12,4 +12,4 @@ Git kommandon kännetecknas av att man sätter git framför och hänvisar till a
 | **cd ..** | Backa ett steg i mapp | 
 
 
-![Bild med kommandoexempel](GitKommandon.jpg)
+![Bild med kommandoexempel](GitKommando.jpg)
